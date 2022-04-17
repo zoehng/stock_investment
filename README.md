@@ -1,6 +1,7 @@
 # stock_investment
 
 Group project focused on timeseries stock price predictions for the course module MSIN0143 Programming in Business Analytics.
+
 Short and long term predictions have been performed using Meta's Prophet algorithm, after gaining insight with the yfinance library.
 A special focus was on the healthcare companies part of the S&P 500.
 
